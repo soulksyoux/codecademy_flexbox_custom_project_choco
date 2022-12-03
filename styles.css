@@ -149,6 +149,7 @@ header nav a {
 .products .item {
     width: 400px;
     height: 400px;
+    margin-bottom: 20px;
 }
 
 .products .item img{
@@ -157,7 +158,6 @@ header nav a {
 }
 
 .products h3 {
-    padding: 10px 0;
     font-weight: 200;
 }
 
